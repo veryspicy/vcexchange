@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/vc-exchange/exchange-engine/exchange-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/exchange-engine/exchange-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/exchange-engine/exchange-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/exchange-engine/exchange-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/exchange-engine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/exchange-engine/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/match-engine/match-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/match-engine/match-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/match-engine/match-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/match-engine/match-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/match-engine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/match-engine/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-admin/admin-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-admin/admin-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-admin/admin-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-admin/admin-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-chan/chan-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-chan/chan-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-chan/chan-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-chan/chan-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-chan/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-chan/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-finance/finance-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-finance/finance-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-finance/finance-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-finance/finance-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-finance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-finance/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-iaas/authorization-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-iaas/authorization-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-iaas/gateway-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-iaas/gateway-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-iaas/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-iaas/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-member/member-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-member/member-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-member/member-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-member/member-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-member/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-member/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-statistics/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-statistics/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-statistics/statistics-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-statistics/statistics-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-statistics/statistics-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-statistics/statistics-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-task/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vc-exchange/vc-task/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
